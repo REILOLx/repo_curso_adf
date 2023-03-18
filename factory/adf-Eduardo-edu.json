@@ -1,0 +1,9 @@
+{
+	"name": "adf-Eduardo-edu",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b03e8144-4dbf-4c94-b8f5-dc9320a0dfc2",
+		"tenantId": "8f2d64a7-4203-4064-9da7-a74282abf9fb"
+	}
+}
